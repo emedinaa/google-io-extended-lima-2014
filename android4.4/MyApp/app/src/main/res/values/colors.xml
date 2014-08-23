@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brown">#523F30</color>
+    <color name="brown2">#837866</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="bluesky">#82C8C8</color>
+    <color name="bluesky2">#B382C8C8</color> <!--45%  70% — B3-->
+    <color name="gray">#ECEBE7</color>
+</resources>
